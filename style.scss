@@ -162,8 +162,9 @@ body {
         // FOOTER //
         .footer {
           display: flex;
-          // flex-direction: column;
-          // align-items: flex-end;
+          flex-direction: column;
+          align-items: flex-end;
+          padding-top: 300px;
           width: 100%;
           height: 100px;
           background-color: #000;
